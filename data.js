@@ -1,0 +1,22 @@
+module.exports ={
+    DataSets:{
+        ValidateAdditionTest:{
+            firstInput:"3",
+            secondInput:"5",
+            resultVal:"8",
+            operatorVal:"ADDITION"
+        },
+        ValidateMultiplyTest:{
+            firstInput:"2",
+            secondInput:"7",
+            resultVal:"14",
+            operatorVal:"MULTIPLICATION"
+        },
+        ValidateSubtractionTest:{
+            firstInput:"4",
+            secondInput:"5",
+            resultVal:"-1",
+            operatorVal:"SUBTRACTION"
+        }
+    }
+}

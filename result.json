@@ -1,0 +1,38 @@
+[
+  {
+    "description": "Super Calculator Test  ValidateAdditionTest",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 3484
+  },
+  {
+    "description": "Super Calculator Test  ValidateMultiplyTest",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2789
+  },
+  {
+    "description": "Super Calculator Test  ValidateSubtractionTest",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 2550
+  },
+  {
+    "description": "Super Calculator Test  To Verify common methods",
+    "assertions": [
+      {
+        "passed": true
+      }
+    ],
+    "duration": 569
+  }
+]
